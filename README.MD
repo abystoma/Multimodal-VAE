@@ -25,7 +25,8 @@ The pipeline is designed in three levels of increasing complexity:
 ├── results/
 ├── plots/
 ├── requirements.txt
-└── README.md```
+└── README.md
+```
 
 ---
 
