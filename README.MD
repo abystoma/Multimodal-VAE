@@ -10,7 +10,7 @@ The pipeline is designed in three levels of increasing complexity:
 ---
 
 ## 📂 Project Structure
-
+```
 .
 ├── Easy/
 │   ├── main_*.py
@@ -25,7 +25,7 @@ The pipeline is designed in three levels of increasing complexity:
 ├── results/
 ├── plots/
 ├── requirements.txt
-└── README.md
+└── README.md```
 
 ---
 
