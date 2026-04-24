@@ -1,0 +1,4 @@
+python Medium/main_build_mir1k_medium.py
+python Medium/main_prepare_medium.py
+python Medium/main_train_cnn_vae_medium.py
+python Medium/main_evaluate_medium.py

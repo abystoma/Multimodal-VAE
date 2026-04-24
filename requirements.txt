@@ -1,0 +1,11 @@
+numpy
+pandas
+matplotlib
+seaborn
+scikit-learn
+librosa
+tqdm
+umap-learn
+tensorflow==2.10.0
+scipy
+joblib
